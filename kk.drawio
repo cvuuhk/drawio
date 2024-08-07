@@ -1,0 +1,54 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0" version="24.7.6">
+  <diagram name="第 1 页" id="Xc__ZqA-NJv6VhidDURD">
+    <mxGraphModel dx="2856" dy="1111" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="tGIDgbhxO8mlFwCTPPA_-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="tGIDgbhxO8mlFwCTPPA_-1" target="tGIDgbhxO8mlFwCTPPA_-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tGIDgbhxO8mlFwCTPPA_-1" value="SMTP 服务器" style="html=1;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="-571" y="253" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="tGIDgbhxO8mlFwCTPPA_-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="tGIDgbhxO8mlFwCTPPA_-2" target="tGIDgbhxO8mlFwCTPPA_-13" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tGIDgbhxO8mlFwCTPPA_-2" value="&lt;div&gt;SMTP 服务器&lt;/div&gt;&lt;div&gt;Postfix&lt;br&gt;&lt;/div&gt;" style="html=1;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="235" y="253" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="tGIDgbhxO8mlFwCTPPA_-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="tGIDgbhxO8mlFwCTPPA_-5" target="tGIDgbhxO8mlFwCTPPA_-1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tGIDgbhxO8mlFwCTPPA_-5" value="客户端" style="html=1;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="-571" y="695" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="tGIDgbhxO8mlFwCTPPA_-7" value="qq.com" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;width=81;height=29;" parent="1" vertex="1">
+          <mxGeometry x="-675" y="199" width="325" height="189" as="geometry" />
+        </mxCell>
+        <mxCell id="tGIDgbhxO8mlFwCTPPA_-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="tGIDgbhxO8mlFwCTPPA_-8" target="tGIDgbhxO8mlFwCTPPA_-13" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="474" y="278" />
+              <mxPoint x="474" y="474" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tGIDgbhxO8mlFwCTPPA_-8" value="&lt;div&gt;POP3 服务器&lt;/div&gt;&lt;div&gt;Dovecot&lt;/div&gt;" style="html=1;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="601" y="253" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="tGIDgbhxO8mlFwCTPPA_-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="tGIDgbhxO8mlFwCTPPA_-10" target="tGIDgbhxO8mlFwCTPPA_-8" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tGIDgbhxO8mlFwCTPPA_-10" value="客户端" style="html=1;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="601" y="714" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="tGIDgbhxO8mlFwCTPPA_-11" value="cuishuhao.com" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;width=128;height=35;" parent="1" vertex="1">
+          <mxGeometry x="81" y="168" width="666" height="398" as="geometry" />
+        </mxCell>
+        <mxCell id="tGIDgbhxO8mlFwCTPPA_-13" value="" style="shape=datastore;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="243" y="411" width="94" height="125" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
