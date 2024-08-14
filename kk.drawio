@@ -241,7 +241,7 @@
         <mxCell id="DfsTdBIRFg2cK0tgbZI2-19" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;direction=south;" vertex="1" parent="DfsTdBIRFg2cK0tgbZI2-33">
           <mxGeometry y="26" width="261" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="DfsTdBIRFg2cK0tgbZI2-20" value="输入分组 x，共 64 个比特" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="DfsTdBIRFg2cK0tgbZI2-33">
+        <mxCell id="DfsTdBIRFg2cK0tgbZI2-20" value="明文分组 x，共 64 个比特" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="DfsTdBIRFg2cK0tgbZI2-33">
           <mxGeometry x="57" width="155" height="26" as="geometry" />
         </mxCell>
         <mxCell id="DfsTdBIRFg2cK0tgbZI2-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="DfsTdBIRFg2cK0tgbZI2-15" target="DfsTdBIRFg2cK0tgbZI2-21">
@@ -301,7 +301,7 @@
         <mxCell id="DfsTdBIRFg2cK0tgbZI2-62" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;direction=south;flipV=1;" vertex="1" parent="DfsTdBIRFg2cK0tgbZI2-71">
           <mxGeometry y="32" width="261" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="DfsTdBIRFg2cK0tgbZI2-63" value="输出分组 y，共 64 个比特" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="DfsTdBIRFg2cK0tgbZI2-71">
+        <mxCell id="DfsTdBIRFg2cK0tgbZI2-63" value="密文分组 y，共 64 个比特" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="DfsTdBIRFg2cK0tgbZI2-71">
           <mxGeometry x="57" y="55" width="156" height="26" as="geometry" />
         </mxCell>
         <mxCell id="DfsTdBIRFg2cK0tgbZI2-67" value="1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="DfsTdBIRFg2cK0tgbZI2-71">
